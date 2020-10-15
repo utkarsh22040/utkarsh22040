@@ -1,14 +1,15 @@
-### Hi there 👋
 <p align="center">
-  <img width="300" height="300" src="logo.png">
+  <img width="400" height="300" src="logo.png">
 </p>
+
+- 🌱 I’m currently learning Computer Science Engineering
 <!--
 **utkarsh22040/utkarsh22040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
