@@ -3,7 +3,9 @@
 <!--
 **utkarsh22040/utkarsh22040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="460" height="300" src="logo.png">
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
